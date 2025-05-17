@@ -1,3 +1,4 @@
 this is the second file
 i have made the editing for new code
 this is the latest edit
+I HAVE REMOVED A BUG AND ADDED A NEW CODE
